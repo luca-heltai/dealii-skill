@@ -1,0 +1,54 @@
+[
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2025-10-20..2025-10-31",
+    "count": 30
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2025-11-01..2025-11-30",
+    "count": 43
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2025-12-01..2025-12-31",
+    "count": 85
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-01-01..2026-01-31",
+    "count": 73
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-02-01..2026-02-28",
+    "count": 68
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-03-01..2026-03-31",
+    "count": 99
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-04-01..2026-04-30",
+    "count": 110
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-05-01..2026-05-31",
+    "count": 142
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-06-01..2026-06-30",
+    "count": 164
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-07-01..2026-07-31",
+    "count": 97
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-08-01..2026-08-31",
+    "count": 65
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-09-01..2026-09-30",
+    "count": 63
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:merged merged:2026-10-01..2026-10-20",
+    "count": 43
+  }
+]

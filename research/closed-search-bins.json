@@ -1,0 +1,54 @@
+[
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2025-10-20..2025-10-31",
+    "count": 1
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2025-11-01..2025-11-30",
+    "count": 1
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2025-12-01..2025-12-31",
+    "count": 2
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-01-01..2026-01-31",
+    "count": 7
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-02-01..2026-02-28",
+    "count": 3
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-03-01..2026-03-31",
+    "count": 6
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-04-01..2026-04-30",
+    "count": 3
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-05-01..2026-05-31",
+    "count": 11
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-06-01..2026-06-30",
+    "count": 12
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-07-01..2026-07-31",
+    "count": 8
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-08-01..2026-08-31",
+    "count": 5
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-09-01..2026-09-30",
+    "count": 1
+  },
+  {
+    "query": "repo:dealii/dealii is:pr is:unmerged is:closed closed:2026-10-01..2026-10-20",
+    "count": 1
+  }
+]

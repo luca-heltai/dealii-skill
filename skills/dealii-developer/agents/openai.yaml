@@ -1,0 +1,4 @@
+interface:
+  display_name: "deal.II Developer"
+  short_description: "Prepare idiomatic, tested deal.II contributions"
+  default_prompt: "Use $dealii-developer to implement and validate this change and prepare a concise PR draft for human review."

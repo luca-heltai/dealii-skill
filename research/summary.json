@@ -1,0 +1,40 @@
+{
+  "repository": "dealii/dealii",
+  "window_start_utc": "2025-10-20T00:00:00Z",
+  "window_end_date_inclusive": "2026-10-20",
+  "collected_at_utc": "2026-10-20T10:51:16.445603+00:00",
+  "upstream_revision": "9e5d24772d9f2a115e4822b94a4fcaaf8a8a309d",
+  "merged_prs": 1082,
+  "closed_unmerged_prs": 61,
+  "authors": 65,
+  "by_merge_month": {
+    "2025-10": 30,
+    "2025-11": 43,
+    "2025-12": 85,
+    "2026-01": 73,
+    "2026-02": 68,
+    "2026-03": 99,
+    "2026-04": 110,
+    "2026-05": 142,
+    "2026-06": 164,
+    "2026-07": 97,
+    "2026-08": 65,
+    "2026-09": 63,
+    "2026-10": 43
+  },
+  "zero_inline_threads": 747,
+  "review_threads": 1699,
+  "review_submissions": 3251,
+  "inline_comments_in_window_on_merged_prs": 2574,
+  "merged_prs_with_those_comments": 332,
+  "details_sample_merged_prs": 72,
+  "details_sample_closed_unmerged_prs": 5,
+  "details_sample_lifetime_inline_comments": 1614,
+  "details_sample_lifetime_issue_comments": 558,
+  "details_sample_lifetime_review_submissions": 840,
+  "supplementary_open_prs": [
+    20217
+  ],
+  "median_changed_lines": 38,
+  "prs_over_1000_changed_lines": 66
+}

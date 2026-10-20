@@ -1,0 +1,478 @@
+[
+  {
+    "number": 12248,
+    "reasons": [
+      "top-3 thread count in merge month 2025-10",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 17331,
+    "reasons": [
+      "top-3 thread count in merge month 2026-01",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 18406,
+    "reasons": [
+      "closed-unmerged contrast; inspect closure reason"
+    ]
+  },
+  {
+    "number": 18632,
+    "reasons": [
+      "top-3 thread count in merge month 2026-04"
+    ]
+  },
+  {
+    "number": 18741,
+    "reasons": [
+      "top-3 thread count in merge month 2025-11"
+    ]
+  },
+  {
+    "number": 18880,
+    "reasons": [
+      "closed-unmerged contrast; inspect closure reason"
+    ]
+  },
+  {
+    "number": 18907,
+    "reasons": [
+      "top-3 thread count in merge month 2026-04"
+    ]
+  },
+  {
+    "number": 18911,
+    "reasons": [
+      "top-3 thread count in merge month 2025-10",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 18927,
+    "reasons": [
+      "top-3 thread count in merge month 2026-06"
+    ]
+  },
+  {
+    "number": 18938,
+    "reasons": [
+      "top-3 thread count in merge month 2025-11",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 18941,
+    "reasons": [
+      "top-3 thread count in merge month 2025-11",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 18948,
+    "reasons": [
+      "top-3 thread count in merge month 2025-10",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 18954,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2025-10"
+    ]
+  },
+  {
+    "number": 18959,
+    "reasons": [
+      "median-number PR with zero inline threads in 2025-10"
+    ]
+  },
+  {
+    "number": 18995,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2025-11"
+    ]
+  },
+  {
+    "number": 18999,
+    "reasons": [
+      "median-number PR with zero inline threads in 2025-11"
+    ]
+  },
+  {
+    "number": 19009,
+    "reasons": [
+      "top-3 thread count in merge month 2025-12"
+    ]
+  },
+  {
+    "number": 19011,
+    "reasons": [
+      "top-3 thread count in merge month 2025-12",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19015,
+    "reasons": [
+      "top-3 thread count in merge month 2026-01"
+    ]
+  },
+  {
+    "number": 19016,
+    "reasons": [
+      "top-3 thread count in merge month 2026-06"
+    ]
+  },
+  {
+    "number": 19019,
+    "reasons": [
+      "top-3 thread count in merge month 2026-02"
+    ]
+  },
+  {
+    "number": 19035,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19052,
+    "reasons": [
+      "closed-unmerged contrast; inspect closure reason"
+    ]
+  },
+  {
+    "number": 19069,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2025-12",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19080,
+    "reasons": [
+      "top-3 thread count in merge month 2025-12"
+    ]
+  },
+  {
+    "number": 19089,
+    "reasons": [
+      "median-number PR with zero inline threads in 2025-12"
+    ]
+  },
+  {
+    "number": 19106,
+    "reasons": [
+      "top-3 thread count in merge month 2026-03"
+    ]
+  },
+  {
+    "number": 19149,
+    "reasons": [
+      "top-3 thread count in merge month 2026-01",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19161,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19201,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-01"
+    ]
+  },
+  {
+    "number": 19209,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-01"
+    ]
+  },
+  {
+    "number": 19218,
+    "reasons": [
+      "top-3 thread count in merge month 2026-03"
+    ]
+  },
+  {
+    "number": 19253,
+    "reasons": [
+      "top-3 thread count in merge month 2026-02"
+    ]
+  },
+  {
+    "number": 19282,
+    "reasons": [
+      "top-3 thread count in merge month 2026-04"
+    ]
+  },
+  {
+    "number": 19286,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-02"
+    ]
+  },
+  {
+    "number": 19301,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-02"
+    ]
+  },
+  {
+    "number": 19337,
+    "reasons": [
+      "top-3 thread count in merge month 2026-02"
+    ]
+  },
+  {
+    "number": 19347,
+    "reasons": [
+      "top-3 thread count in merge month 2026-06"
+    ]
+  },
+  {
+    "number": 19388,
+    "reasons": [
+      "top-3 thread count in merge month 2026-03"
+    ]
+  },
+  {
+    "number": 19393,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-03"
+    ]
+  },
+  {
+    "number": 19398,
+    "reasons": [
+      "top-3 thread count in merge month 2026-09"
+    ]
+  },
+  {
+    "number": 19407,
+    "reasons": [
+      "closed-unmerged contrast; inspect closure reason"
+    ]
+  },
+  {
+    "number": 19409,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-03"
+    ]
+  },
+  {
+    "number": 19519,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-04"
+    ]
+  },
+  {
+    "number": 19520,
+    "reasons": [
+      "top-3 thread count in merge month 2026-08"
+    ]
+  },
+  {
+    "number": 19537,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-04"
+    ]
+  },
+  {
+    "number": 19544,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19547,
+    "reasons": [
+      "top-3 thread count in merge month 2026-05"
+    ]
+  },
+  {
+    "number": 19593,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19647,
+    "reasons": [
+      "top-3 thread count in merge month 2026-05",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19688,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-05"
+    ]
+  },
+  {
+    "number": 19692,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-05"
+    ]
+  },
+  {
+    "number": 19704,
+    "reasons": [
+      "top-3 thread count in merge month 2026-05",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19784,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19796,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19828,
+    "reasons": [
+      "top-3 thread count in merge month 2026-07",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19844,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-06"
+    ]
+  },
+  {
+    "number": 19881,
+    "reasons": [
+      "top-3 thread count in merge month 2026-07"
+    ]
+  },
+  {
+    "number": 19884,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-06"
+    ]
+  },
+  {
+    "number": 19916,
+    "reasons": [
+      "top-3 thread count in merge month 2026-07",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19944,
+    "reasons": [
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 19984,
+    "reasons": [
+      "closed-unmerged contrast; inspect closure reason"
+    ]
+  },
+  {
+    "number": 20026,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-07"
+    ]
+  },
+  {
+    "number": 20028,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-07"
+    ]
+  },
+  {
+    "number": 20040,
+    "reasons": [
+      "top-3 thread count in merge month 2026-10"
+    ]
+  },
+  {
+    "number": 20090,
+    "reasons": [
+      "top-3 thread count in merge month 2026-08"
+    ]
+  },
+  {
+    "number": 20116,
+    "reasons": [
+      "top-3 thread count in merge month 2026-08",
+      "purposive technical or counterexample case"
+    ]
+  },
+  {
+    "number": 20127,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-08"
+    ]
+  },
+  {
+    "number": 20135,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-08"
+    ]
+  },
+  {
+    "number": 20161,
+    "reasons": [
+      "top-3 thread count in merge month 2026-09"
+    ]
+  },
+  {
+    "number": 20207,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-09"
+    ]
+  },
+  {
+    "number": 20210,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-09"
+    ]
+  },
+  {
+    "number": 20215,
+    "reasons": [
+      "top-3 thread count in merge month 2026-10"
+    ]
+  },
+  {
+    "number": 20233,
+    "reasons": [
+      "top-3 thread count in merge month 2026-09"
+    ]
+  },
+  {
+    "number": 20259,
+    "reasons": [
+      "median-number PR with 1-5 threads in 2026-10"
+    ]
+  },
+  {
+    "number": 20275,
+    "reasons": [
+      "median-number PR with zero inline threads in 2026-10"
+    ]
+  },
+  {
+    "number": 20281,
+    "reasons": [
+      "top-3 thread count in merge month 2026-10"
+    ]
+  }
+]

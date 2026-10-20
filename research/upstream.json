@@ -1,0 +1,15 @@
+{
+  "repository": "dealii/dealii",
+  "revision": "9e5d24772d9f2a115e4822b94a4fcaaf8a8a309d",
+  "paths": [
+    "CONTRIBUTING.md",
+    ".github/pull_request_template.md",
+    "doc/doxygen/headers/coding_conventions.h",
+    "doc/developers/testsuite.html",
+    "doc/developers/writing-documentation.html",
+    ".github/workflows/indent.yml",
+    "contrib/utilities/indent",
+    "contrib/utilities/indent_common.sh",
+    "CMakeLists.txt"
+  ]
+}

@@ -1,0 +1,775 @@
+[
+  {
+    "id": "scope",
+    "kind": "review observation; application requires context",
+    "observation": "Keep independent changes in separate PRs.",
+    "sources": [
+      {
+        "pr": 18948,
+        "url": "https://github.com/dealii/dealii/pull/18948#discussion_r2449158416",
+        "created_at": "2025-10-21T17:33:50Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T21:07:53Z",
+        "pr_closed_at": "2025-10-27T21:07:53Z",
+        "head_sha_at_collection": "32ce33779a95fb61dfec06d82b98474ceed3d869",
+        "merge_sha": "7d926301802a5709cf7113d8c5f0fea3aaeb350f",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19784,
+        "url": "https://github.com/dealii/dealii/pull/19784#discussion_r3365071603",
+        "created_at": "2026-06-05T20:04:35Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-06-11T10:18:35Z",
+        "pr_closed_at": "2026-06-11T10:18:35Z",
+        "head_sha_at_collection": "f6b05e4180a3f15bb09ed98f354eb4bd02a1a2f2",
+        "merge_sha": "0665326acfa7ece385ee2c680c6dc6f1234633a0",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "semantic-names",
+    "kind": "review observation; application requires context",
+    "observation": "Names and types should describe actions and parameter meaning.",
+    "sources": [
+      {
+        "pr": 18911,
+        "url": "https://github.com/dealii/dealii/pull/18911#discussion_r2456951779",
+        "created_at": "2025-10-23T19:33:41Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T17:51:48Z",
+        "pr_closed_at": "2025-10-27T17:51:48Z",
+        "head_sha_at_collection": "8309d782e778b703730cbf9d4b8ab7df8ef8199a",
+        "merge_sha": "f168b467c4864ebc219ce3ef04bab7dfc2171b68",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 18911,
+        "url": "https://github.com/dealii/dealii/pull/18911#discussion_r2456964281",
+        "created_at": "2025-10-23T19:36:24Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T17:51:48Z",
+        "pr_closed_at": "2025-10-27T17:51:48Z",
+        "head_sha_at_collection": "8309d782e778b703730cbf9d4b8ab7df8ef8199a",
+        "merge_sha": "f168b467c4864ebc219ce3ef04bab7dfc2171b68",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 18911,
+        "url": "https://github.com/dealii/dealii/pull/18911#discussion_r2457042583",
+        "created_at": "2025-10-23T19:54:44Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T17:51:48Z",
+        "pr_closed_at": "2025-10-27T17:51:48Z",
+        "head_sha_at_collection": "8309d782e778b703730cbf9d4b8ab7df8ef8199a",
+        "merge_sha": "f168b467c4864ebc219ce3ef04bab7dfc2171b68",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "reuse-detection",
+    "kind": "review observation; application requires context",
+    "observation": "Prefer the existing detection abstraction over parallel local machinery.",
+    "sources": [
+      {
+        "pr": 19149,
+        "url": "https://github.com/dealii/dealii/pull/19149#discussion_r2679152351",
+        "created_at": "2026-01-11T01:57:18Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-01-12T01:35:55Z",
+        "pr_closed_at": "2026-01-12T01:35:55Z",
+        "head_sha_at_collection": "44f1c0c630a3fb1d2575d95f530b823d4f8d1951",
+        "merge_sha": "72b07ec80fbf92650cd65e8de8e74983e48c348b",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19149,
+        "url": "https://github.com/dealii/dealii/pull/19149#discussion_r2680642401",
+        "created_at": "2026-01-12T01:26:42Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-01-12T01:35:55Z",
+        "pr_closed_at": "2026-01-12T01:35:55Z",
+        "head_sha_at_collection": "44f1c0c630a3fb1d2575d95f530b823d4f8d1951",
+        "merge_sha": "72b07ec80fbf92650cd65e8de8e74983e48c348b",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "shared-knowledge",
+    "kind": "review observation; application requires context",
+    "observation": "Keep topology and coefficients with their existing owner.",
+    "sources": [
+      {
+        "pr": 19161,
+        "url": "https://github.com/dealii/dealii/pull/19161#discussion_r2677015682",
+        "created_at": "2026-01-09T17:26:43Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-01-20T15:02:53Z",
+        "pr_closed_at": "2026-01-20T15:02:53Z",
+        "head_sha_at_collection": "d39ed3d3b88bea8d01cdefd30a890a27fff54504",
+        "merge_sha": "6e0ef8741f88c4786ea73a2117c95594bd8bf778",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19784,
+        "url": "https://github.com/dealii/dealii/pull/19784#discussion_r3317539453",
+        "created_at": "2026-05-28T11:50:00Z",
+        "reviewer": "kronbichler",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-06-11T10:18:35Z",
+        "pr_closed_at": "2026-06-11T10:18:35Z",
+        "head_sha_at_collection": "f6b05e4180a3f15bb09ed98f354eb4bd02a1a2f2",
+        "merge_sha": "0665326acfa7ece385ee2c680c6dc6f1234633a0",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "copies",
+    "kind": "review observation; application requires context",
+    "observation": "Avoid unnecessary vector copies; retain alias-protection copies.",
+    "sources": [
+      {
+        "pr": 18911,
+        "url": "https://github.com/dealii/dealii/pull/18911#discussion_r2457009114",
+        "created_at": "2025-10-23T19:46:56Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T17:51:48Z",
+        "pr_closed_at": "2025-10-27T17:51:48Z",
+        "head_sha_at_collection": "8309d782e778b703730cbf9d4b8ab7df8ef8199a",
+        "merge_sha": "f168b467c4864ebc219ce3ef04bab7dfc2171b68",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 18948,
+        "url": "https://github.com/dealii/dealii/pull/18948#discussion_r2449183738",
+        "created_at": "2025-10-21T17:43:11Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T21:07:53Z",
+        "pr_closed_at": "2025-10-27T21:07:53Z",
+        "head_sha_at_collection": "32ce33779a95fb61dfec06d82b98474ceed3d869",
+        "merge_sha": "7d926301802a5709cf7113d8c5f0fea3aaeb350f",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "collectives",
+    "kind": "review observation; application requires context",
+    "observation": "A rank-local early exit can bypass a required collective.",
+    "sources": [
+      {
+        "pr": 19149,
+        "url": "https://github.com/dealii/dealii/pull/19149#discussion_r2784106464",
+        "created_at": "2026-02-09T18:57:10Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-01-12T01:35:55Z",
+        "pr_closed_at": "2026-01-12T01:35:55Z",
+        "head_sha_at_collection": "44f1c0c630a3fb1d2575d95f530b823d4f8d1951",
+        "merge_sha": "72b07ec80fbf92650cd65e8de8e74983e48c348b",
+        "comment_after_merge": true,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "communicators",
+    "kind": "review observation; application requires context",
+    "observation": "Use the caller-relevant communicator in reusable code.",
+    "sources": [
+      {
+        "pr": 18938,
+        "url": "https://github.com/dealii/dealii/pull/18938#discussion_r2465719864",
+        "created_at": "2025-10-27T13:40:00Z",
+        "reviewer": "drwells",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-11-05T19:10:54Z",
+        "pr_closed_at": "2025-11-05T19:10:54Z",
+        "head_sha_at_collection": "47b4c47fd3c9186e8305766dc3bba368dd8c849f",
+        "merge_sha": "0a6903a23a43adfe8f8afad180e80c10c787e705",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "index-width",
+    "kind": "review observation; application requires context",
+    "observation": "Preserve index widths and justify narrowing.",
+    "sources": [
+      {
+        "pr": 19069,
+        "url": "https://github.com/dealii/dealii/pull/19069#discussion_r2611769519",
+        "created_at": "2025-12-11T19:13:42Z",
+        "reviewer": "tjhei",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-12-15T09:50:02Z",
+        "pr_closed_at": "2025-12-15T09:50:02Z",
+        "head_sha_at_collection": "86ee83f1946f1c22742b49996919012a53589d06",
+        "merge_sha": "55741a97ccd6eac451d92f215dd98faca54d32f5",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19080,
+        "url": "https://github.com/dealii/dealii/pull/19080#discussion_r2617584470",
+        "created_at": "2025-12-14T23:16:35Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-12-22T16:50:14Z",
+        "pr_closed_at": "2025-12-22T16:50:14Z",
+        "head_sha_at_collection": "6f4c34f75b41d7fde47e283045c895c5cc841807",
+        "merge_sha": "23022a42278c37663ce5656e6dbd95676a1f320b",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "runtime-checks",
+    "kind": "review observation; application requires context",
+    "observation": "Checks that must survive Release need an appropriate runtime path.",
+    "sources": [
+      {
+        "pr": 19019,
+        "url": "https://github.com/dealii/dealii/pull/19019#discussion_r2712568586",
+        "created_at": "2026-01-21T13:25:23Z",
+        "reviewer": "blaisb",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-02-05T14:58:09Z",
+        "pr_closed_at": "2026-02-05T14:58:09Z",
+        "head_sha_at_collection": "3a5218e30a0275c9baf9a77161c1a3f07ccde917",
+        "merge_sha": "172a7f2ab74a1035cecdb39a9edd893931ffe191",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "numerical-oracle",
+    "kind": "review observation; application requires context",
+    "observation": "Use interpretable errors against a justified numerical reference.",
+    "sources": [
+      {
+        "pr": 19011,
+        "url": "https://github.com/dealii/dealii/pull/19011#discussion_r2535153906",
+        "created_at": "2025-11-17T18:41:45Z",
+        "reviewer": "richardschu",
+        "association": "CONTRIBUTOR",
+        "pr_merged_at": "2025-12-04T14:00:07Z",
+        "pr_closed_at": "2025-12-04T14:00:07Z",
+        "head_sha_at_collection": "600fc964218cef2f2e4da0409ee8f7cd3dc179d2",
+        "merge_sha": "73efec711486eb84391d822e72b018bed1485d7e",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19011,
+        "url": "https://github.com/dealii/dealii/pull/19011#discussion_r2538902951",
+        "created_at": "2025-11-18T16:35:08Z",
+        "reviewer": "j-brotz",
+        "association": "CONTRIBUTOR",
+        "pr_merged_at": "2025-12-04T14:00:07Z",
+        "pr_closed_at": "2025-12-04T14:00:07Z",
+        "head_sha_at_collection": "600fc964218cef2f2e4da0409ee8f7cd3dc179d2",
+        "merge_sha": "73efec711486eb84391d822e72b018bed1485d7e",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19796,
+        "url": "https://github.com/dealii/dealii/pull/19796#discussion_r3369252303",
+        "created_at": "2026-06-07T11:35:30Z",
+        "reviewer": "vovannikov",
+        "association": "CONTRIBUTOR",
+        "pr_merged_at": "2026-06-07T21:35:18Z",
+        "pr_closed_at": "2026-06-07T21:35:18Z",
+        "head_sha_at_collection": "cce8c797ae2fbc8deff74a6c4527dee285f542cd",
+        "merge_sha": "476f58c859eba2f2cbca5f2f36fd5d0d2ea0b734",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "test-integration",
+    "kind": "review observation; application requires context",
+    "observation": "Make regressions reproducible in the project testsuite.",
+    "sources": [
+      {
+        "pr": 19019,
+        "url": "https://github.com/dealii/dealii/pull/19019#issuecomment-3575290178",
+        "created_at": "2025-11-25T11:55:56Z",
+        "reviewer": "blaisb",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-02-05T14:58:09Z",
+        "pr_closed_at": "2026-02-05T14:58:09Z",
+        "head_sha_at_collection": "3a5218e30a0275c9baf9a77161c1a3f07ccde917",
+        "merge_sha": "172a7f2ab74a1035cecdb39a9edd893931ffe191",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19149,
+        "url": "https://github.com/dealii/dealii/pull/19149#discussion_r2679157534",
+        "created_at": "2026-01-11T02:10:58Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-01-12T01:35:55Z",
+        "pr_closed_at": "2026-01-12T01:35:55Z",
+        "head_sha_at_collection": "44f1c0c630a3fb1d2575d95f530b823d4f8d1951",
+        "merge_sha": "72b07ec80fbf92650cd65e8de8e74983e48c348b",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "documentation",
+    "kind": "review observation; application requires context",
+    "observation": "Document the current contract and real parameters.",
+    "sources": [
+      {
+        "pr": 19161,
+        "url": "https://github.com/dealii/dealii/pull/19161#discussion_r2675196473",
+        "created_at": "2026-01-09T07:50:49Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-01-20T15:02:53Z",
+        "pr_closed_at": "2026-01-20T15:02:53Z",
+        "head_sha_at_collection": "d39ed3d3b88bea8d01cdefd30a890a27fff54504",
+        "merge_sha": "6e0ef8741f88c4786ea73a2117c95594bd8bf778",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 18948,
+        "url": "https://github.com/dealii/dealii/pull/18948#discussion_r2449164615",
+        "created_at": "2025-10-21T17:36:00Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-10-27T21:07:53Z",
+        "pr_closed_at": "2025-10-27T21:07:53Z",
+        "head_sha_at_collection": "32ce33779a95fb61dfec06d82b98474ceed3d869",
+        "merge_sha": "7d926301802a5709cf7113d8c5f0fea3aaeb350f",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "includes",
+    "kind": "review observation; application requires context",
+    "observation": "Inspect generated includes and affected module builds.",
+    "sources": [
+      {
+        "pr": 19544,
+        "url": "https://github.com/dealii/dealii/pull/19544#discussion_r3173468198",
+        "created_at": "2026-05-01T14:04:39Z",
+        "reviewer": "gassmoeller",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-05-05T13:28:05Z",
+        "pr_closed_at": "2026-05-05T13:28:05Z",
+        "head_sha_at_collection": "b0d4613fb0855daae919ef2aab30b57d065c7cf6",
+        "merge_sha": "6494f291df77d2f2be6d16edc5d682bad6c3f98a",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19544,
+        "url": "https://github.com/dealii/dealii/pull/19544#discussion_r3175307184",
+        "created_at": "2026-05-01T21:33:45Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-05-05T13:28:05Z",
+        "pr_closed_at": "2026-05-05T13:28:05Z",
+        "head_sha_at_collection": "b0d4613fb0855daae919ef2aab30b57d065c7cf6",
+        "merge_sha": "6494f291df77d2f2be6d16edc5d682bad6c3f98a",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "performance",
+    "kind": "review observation; application requires context",
+    "observation": "Preserve threading semantics and measure the affected operation.",
+    "sources": [
+      {
+        "pr": 19647,
+        "url": "https://github.com/dealii/dealii/pull/19647#issuecomment-4407382754",
+        "created_at": "2026-05-08T14:52:01Z",
+        "reviewer": "drwells",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-05-12T03:25:45Z",
+        "pr_closed_at": "2026-05-12T03:25:45Z",
+        "head_sha_at_collection": "70dac911bf1b9199b36254f50003c2e19c84fc58",
+        "merge_sha": "b3877e1c1f5bca21881fd05c716f97a8f438b44f",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19944,
+        "url": "https://github.com/dealii/dealii/pull/19944#issuecomment-4826219397",
+        "created_at": "2026-06-28T13:17:55Z",
+        "reviewer": "kronbichler",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-06-27T07:54:57Z",
+        "pr_closed_at": "2026-06-27T07:54:57Z",
+        "head_sha_at_collection": "9348542a102819620ca427e419d2bee4fdb3b5ea",
+        "merge_sha": "2806db32affd2a10ffb9b27de2712d7e183f86de",
+        "comment_after_merge": true,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "science",
+    "kind": "review observation; application requires context",
+    "observation": "Review scientific claims and operator meaning, not just prose.",
+    "sources": [
+      {
+        "pr": 18907,
+        "url": "https://github.com/dealii/dealii/pull/18907#discussion_r2687692986",
+        "created_at": "2026-01-13T18:59:30Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-04-23T18:39:26Z",
+        "pr_closed_at": "2026-04-23T18:39:26Z",
+        "head_sha_at_collection": "7232a502d9eabffa8186cb79562848b3e305d326",
+        "merge_sha": "32722b69d9ee218dcbd225c90a48b86401c1f8af",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19828,
+        "url": "https://github.com/dealii/dealii/pull/19828#discussion_r3446386692",
+        "created_at": "2026-06-20T13:03:13Z",
+        "reviewer": "kronbichler",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-07-08T06:32:57Z",
+        "pr_closed_at": "2026-07-08T06:32:57Z",
+        "head_sha_at_collection": "7e4eee848ee0ce837d239b6fa905de9737a72f76",
+        "merge_sha": "6f5c510a9e7742f591507a7059621b2ee25eb2c8",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "ai-control-flow",
+    "kind": "review observation; application requires context",
+    "observation": "Remove repeated dimension predicates and oversized generated refactors.",
+    "sources": [
+      {
+        "pr": 20116,
+        "url": "https://github.com/dealii/dealii/pull/20116#discussion_r3846185329",
+        "created_at": "2026-08-24T18:09:59Z",
+        "reviewer": "drwells",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-08-28T17:55:57Z",
+        "pr_closed_at": "2026-08-28T17:55:57Z",
+        "head_sha_at_collection": "0a64bbed67f2f328879d9d9c11729c8a0392e0a2",
+        "merge_sha": "3d33a4526fbf89d8b8ee8c0267b3d910aaf49387",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 20116,
+        "url": "https://github.com/dealii/dealii/pull/20116#issuecomment-5413019093",
+        "created_at": "2026-08-25T15:49:54Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-08-28T17:55:57Z",
+        "pr_closed_at": "2026-08-28T17:55:57Z",
+        "head_sha_at_collection": "0a64bbed67f2f328879d9d9c11729c8a0392e0a2",
+        "merge_sha": "3d33a4526fbf89d8b8ee8c0267b3d910aaf49387",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "autonomy",
+    "kind": "review observation; application requires context",
+    "observation": "Current policy rejects autonomous-agent contributions.",
+    "sources": [
+      {
+        "pr": 19984,
+        "url": "https://github.com/dealii/dealii/pull/19984#issuecomment-4856584239",
+        "created_at": "2026-07-01T14:53:41Z",
+        "reviewer": "drwells",
+        "association": "MEMBER",
+        "pr_merged_at": null,
+        "pr_closed_at": "2026-07-01T14:53:41Z",
+        "head_sha_at_collection": "6d2ccffe9a0eb70843316d5510b7d9aa93728273",
+        "merge_sha": null,
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "verify-suggestions",
+    "kind": "review observation; application requires context",
+    "observation": "Check suggested syntax against the supported language standard.",
+    "sources": [
+      {
+        "pr": 19011,
+        "url": "https://github.com/dealii/dealii/pull/19011#discussion_r2548470068",
+        "created_at": "2025-11-21T04:04:53Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-12-04T14:00:07Z",
+        "pr_closed_at": "2025-12-04T14:00:07Z",
+        "head_sha_at_collection": "600fc964218cef2f2e4da0409ee8f7cd3dc179d2",
+        "merge_sha": "73efec711486eb84391d822e72b018bed1485d7e",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19011,
+        "url": "https://github.com/dealii/dealii/pull/19011#discussion_r2549124912",
+        "created_at": "2025-11-21T09:38:14Z",
+        "reviewer": "j-brotz",
+        "association": "CONTRIBUTOR",
+        "pr_merged_at": "2025-12-04T14:00:07Z",
+        "pr_closed_at": "2025-12-04T14:00:07Z",
+        "head_sha_at_collection": "600fc964218cef2f2e4da0409ee8f7cd3dc179d2",
+        "merge_sha": "73efec711486eb84391d822e72b018bed1485d7e",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "standard-compatibility",
+    "kind": "review observation; application requires context",
+    "observation": "A standard-library compatibility implementation may follow standard naming.",
+    "sources": [
+      {
+        "pr": 19704,
+        "url": "https://github.com/dealii/dealii/pull/19704#discussion_r3256156671",
+        "created_at": "2026-05-18T03:27:49Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-05-22T03:14:18Z",
+        "pr_closed_at": "2026-05-22T03:14:18Z",
+        "head_sha_at_collection": "78fb67692b0e54a8822d42c103c0a91ec955b57c",
+        "merge_sha": "ee832356e79c17f149b039ecfcedfb764b0d739b",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "existing-tests",
+    "kind": "review observation; application requires context",
+    "observation": "Existing tests can already cover a proposed new test.",
+    "sources": [
+      {
+        "pr": 18941,
+        "url": "https://github.com/dealii/dealii/pull/18941#discussion_r2467573234",
+        "created_at": "2025-10-28T01:19:02Z",
+        "reviewer": "drwells",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-11-02T12:38:07Z",
+        "pr_closed_at": "2025-11-02T12:38:07Z",
+        "head_sha_at_collection": "9dcce9f7d4d4a41bb7429b5d043f48c84c248e5c",
+        "merge_sha": "108b4088853d5fe99ddf6afe9f06f08587852ca7",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "local-versus-collective",
+    "kind": "review observation; application requires context",
+    "observation": "Distinguish local inspection from collective communication.",
+    "sources": [
+      {
+        "pr": 18941,
+        "url": "https://github.com/dealii/dealii/pull/18941#discussion_r2449222066",
+        "created_at": "2025-10-21T17:55:38Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-11-02T12:38:07Z",
+        "pr_closed_at": "2025-11-02T12:38:07Z",
+        "head_sha_at_collection": "9dcce9f7d4d4a41bb7429b5d043f48c84c248e5c",
+        "merge_sha": "108b4088853d5fe99ddf6afe9f06f08587852ca7",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 18941,
+        "url": "https://github.com/dealii/dealii/pull/18941#discussion_r2449861273",
+        "created_at": "2025-10-21T22:23:08Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": "2025-11-02T12:38:07Z",
+        "pr_closed_at": "2025-11-02T12:38:07Z",
+        "head_sha_at_collection": "9dcce9f7d4d4a41bb7429b5d043f48c84c248e5c",
+        "merge_sha": "108b4088853d5fe99ddf6afe9f06f08587852ca7",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "abstraction-cost",
+    "kind": "review observation; application requires context",
+    "observation": "Reuse is a tradeoff when generalization adds complication.",
+    "sources": [
+      {
+        "pr": 20161,
+        "url": "https://github.com/dealii/dealii/pull/20161#discussion_r3923274264",
+        "created_at": "2026-09-03T09:51:19Z",
+        "reviewer": "kronbichler",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-09-09T17:35:58Z",
+        "pr_closed_at": "2026-09-09T17:35:58Z",
+        "head_sha_at_collection": "dccb57679638cef9d3a773523b61aa22ad349587",
+        "merge_sha": "76c88b21065a19c07b2c2468efca38069cc2a80c",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 20217,
+        "url": "https://github.com/dealii/dealii/pull/20217#discussion_r4317836783",
+        "created_at": "2026-10-19T19:17:48Z",
+        "reviewer": "drwells",
+        "association": "MEMBER",
+        "pr_merged_at": null,
+        "pr_closed_at": null,
+        "head_sha_at_collection": "3194f87065154cf55825a1835bd55ae18ef036eb",
+        "merge_sha": null,
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "closure-reasons",
+    "kind": "review observation; application requires context",
+    "observation": "Superseded, withdrawn, and policy-rejected PRs differ.",
+    "sources": [
+      {
+        "pr": 18880,
+        "url": "https://github.com/dealii/dealii/pull/18880#issuecomment-3433124381",
+        "created_at": "2025-10-22T15:55:44Z",
+        "reviewer": "PolvereUnipi",
+        "association": "CONTRIBUTOR",
+        "pr_merged_at": null,
+        "pr_closed_at": "2025-10-22T15:55:44Z",
+        "head_sha_at_collection": "8ce1f84779355c854adfe57742180e3e449961dc",
+        "merge_sha": null,
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19407,
+        "url": "https://github.com/dealii/dealii/pull/19407#issuecomment-4076368661",
+        "created_at": "2026-03-17T16:38:28Z",
+        "reviewer": "kronbichler",
+        "association": "MEMBER",
+        "pr_merged_at": null,
+        "pr_closed_at": "2026-03-17T16:38:28Z",
+        "head_sha_at_collection": "44b6786c57b8766f22447f977286a192d4b40ee6",
+        "merge_sha": null,
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 19052,
+        "url": "https://github.com/dealii/dealii/pull/19052#issuecomment-3929030847",
+        "created_at": "2026-02-19T18:19:51Z",
+        "reviewer": "luca-heltai",
+        "association": "MEMBER",
+        "pr_merged_at": null,
+        "pr_closed_at": "2026-02-19T18:19:51Z",
+        "head_sha_at_collection": "695936fc1fa249074296ccf69376a73ec0083a86",
+        "merge_sha": null,
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      },
+      {
+        "pr": 18406,
+        "url": "https://github.com/dealii/dealii/pull/18406#issuecomment-3629521278",
+        "created_at": "2025-12-08T23:45:32Z",
+        "reviewer": "bangerth",
+        "association": "MEMBER",
+        "pr_merged_at": null,
+        "pr_closed_at": "2025-11-15T18:00:54Z",
+        "head_sha_at_collection": "809eb9d133604288eca73eaacc5d54e5b71cae9d",
+        "merge_sha": null,
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "disclosure",
+    "kind": "review observation; application requires context",
+    "observation": "Historical optional disclosure discussion is not a mandatory transcript policy.",
+    "sources": [
+      {
+        "pr": 19916,
+        "url": "https://github.com/dealii/dealii/pull/19916#issuecomment-4857239007",
+        "created_at": "2026-07-01T15:49:34Z",
+        "reviewer": "blaisb",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-07-02T14:13:24Z",
+        "pr_closed_at": "2026-07-02T14:13:24Z",
+        "head_sha_at_collection": "8dc459865f11fae38d6afd3a2d5a3ba32767210d",
+        "merge_sha": "fd850908022832c7633a5bcfd32951628d20e680",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  },
+  {
+    "id": "platform-claims",
+    "kind": "review observation; application requires context",
+    "observation": "Avoid publishing unverified platform instructions.",
+    "sources": [
+      {
+        "pr": 20281,
+        "url": "https://github.com/dealii/dealii/pull/20281#discussion_r4256943415",
+        "created_at": "2026-10-13T09:28:25Z",
+        "reviewer": "marcfehling",
+        "association": "MEMBER",
+        "pr_merged_at": "2026-10-15T16:15:39Z",
+        "pr_closed_at": "2026-10-15T16:15:39Z",
+        "head_sha_at_collection": "6af317277a0a9812f357a836022a07b050356be0",
+        "merge_sha": "e04a60e67fb6cd572dc13f69faafd5cd9c0e9ae9",
+        "comment_after_merge": false,
+        "comment_predates_window": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,2073 @@
+[
+  {
+    "number": 18880,
+    "title": "A class that implements matrix scaling algorithms sequentially",
+    "url": "https://github.com/dealii/dealii/pull/18880",
+    "mergedAt": null,
+    "closedAt": "2025-10-22T15:55:44Z",
+    "createdAt": "2025-09-17T13:59:03Z",
+    "updatedAt": "2025-10-23T19:24:48Z",
+    "author": {
+      "login": "PolvereUnipi"
+    },
+    "additions": 1507,
+    "deletions": 14,
+    "changedFiles": 16,
+    "baseRefName": "master",
+    "headRefOid": "8ce1f84779355c854adfe57742180e3e449961dc",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        },
+        {
+          "name": "dealii-x"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 12
+    },
+    "reviews": {
+      "totalCount": 12
+    },
+    "reviewThreads": {
+      "totalCount": 30
+    }
+  },
+  {
+    "number": 18406,
+    "title": "Support for matrix-free multiplicative patch smoothers.",
+    "url": "https://github.com/dealii/dealii/pull/18406",
+    "mergedAt": null,
+    "closedAt": "2025-11-15T18:00:54Z",
+    "createdAt": "2025-05-01T22:50:12Z",
+    "updatedAt": "2025-12-10T00:32:16Z",
+    "author": {
+      "login": "mwichro"
+    },
+    "additions": 7368,
+    "deletions": 0,
+    "changedFiles": 25,
+    "baseRefName": "master",
+    "headRefOid": "809eb9d133604288eca73eaacc5d54e5b71cae9d",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 11
+    },
+    "reviews": {
+      "totalCount": 11
+    },
+    "reviewThreads": {
+      "totalCount": 37
+    }
+  },
+  {
+    "number": 19124,
+    "title": "Add origin to detect merges utility",
+    "url": "https://github.com/dealii/dealii/pull/19124",
+    "mergedAt": null,
+    "closedAt": "2025-12-22T22:16:17Z",
+    "createdAt": "2025-12-22T21:42:19Z",
+    "updatedAt": "2025-12-22T22:16:51Z",
+    "author": {
+      "login": "jpthiele"
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "4dd5161be3c90e484998a2569a74545f11cb5595",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19093,
+    "title": "Implement isotropic refinement of Wedges",
+    "url": "https://github.com/dealii/dealii/pull/19093",
+    "mergedAt": null,
+    "closedAt": "2025-12-17T16:43:27Z",
+    "createdAt": "2025-12-16T21:07:16Z",
+    "updatedAt": "2025-12-17T18:52:34Z",
+    "author": {
+      "login": "AndSte01"
+    },
+    "additions": 25899,
+    "deletions": 531,
+    "changedFiles": 10,
+    "baseRefName": "master",
+    "headRefOid": "805bfeacde66e3e8ac33c3aa9189b1d0a44641f2",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 14
+    }
+  },
+  {
+    "number": 19187,
+    "title": "Do not configure with Trilinos 17 or later.",
+    "url": "https://github.com/dealii/dealii/pull/19187",
+    "mergedAt": null,
+    "closedAt": "2026-01-15T14:33:15Z",
+    "createdAt": "2026-01-15T13:17:52Z",
+    "updatedAt": "2026-01-16T13:18:29Z",
+    "author": {
+      "login": "marcfehling"
+    },
+    "additions": 17,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "d3d6fe5fa1461f3aa2473268a71d5850786fac0a",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "External libraries"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19169,
+    "title": "Add functions `standard_to_real_quad_vertex/line`.",
+    "url": "https://github.com/dealii/dealii/pull/19169",
+    "mergedAt": null,
+    "closedAt": "2026-01-12T16:44:02Z",
+    "createdAt": "2026-01-12T11:16:02Z",
+    "updatedAt": "2026-03-05T19:23:27Z",
+    "author": {
+      "login": "AndSte01"
+    },
+    "additions": 405,
+    "deletions": 0,
+    "changedFiles": 3,
+    "baseRefName": "master",
+    "headRefOid": "1644e57dc2c758a56198cccfc43bbcd3c259f069",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19125,
+    "title": "gh-actions: Fix merge commit detection for CI.",
+    "url": "https://github.com/dealii/dealii/pull/19125",
+    "mergedAt": null,
+    "closedAt": "2026-01-06T23:23:46Z",
+    "createdAt": "2025-12-22T22:14:52Z",
+    "updatedAt": "2026-01-07T10:21:24Z",
+    "author": {
+      "login": "marcfehling"
+    },
+    "additions": 27,
+    "deletions": 21,
+    "changedFiles": 3,
+    "baseRefName": "master",
+    "headRefOid": "d77b3ff749a507672679f9c4b2f931a9ecc4bc87",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Do not merge :skull_and_crossbones:"
+        },
+        {
+          "name": "github_actions"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 18815,
+    "title": "gh-actions: Also build in C++20 mode on macos.",
+    "url": "https://github.com/dealii/dealii/pull/18815",
+    "mergedAt": null,
+    "closedAt": "2026-01-14T10:41:03Z",
+    "createdAt": "2025-08-14T14:32:42Z",
+    "updatedAt": "2026-01-14T13:34:16Z",
+    "author": {
+      "login": "marcfehling"
+    },
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "00d7a270c153235dd849b958dea2cba4166f6c06",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Mac OS"
+        },
+        {
+          "name": "github_actions"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 10
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 18743,
+    "title": "Add step-101 tutorial program with Shifted Boundary Method for Poisson equation",
+    "url": "https://github.com/dealii/dealii/pull/18743",
+    "mergedAt": null,
+    "closedAt": "2026-01-14T18:48:04Z",
+    "createdAt": "2025-07-20T20:40:29Z",
+    "updatedAt": "2026-01-18T19:53:32Z",
+    "author": {
+      "login": "mwichro"
+    },
+    "additions": 918,
+    "deletions": 0,
+    "changedFiles": 10,
+    "baseRefName": "master",
+    "headRefOid": "fd2a022b770d314b844ec74aa0edd08dd2d7fd4c",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Tutorials"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "reviews": {
+      "totalCount": 6
+    },
+    "reviewThreads": {
+      "totalCount": 4
+    }
+  },
+  {
+    "number": 10766,
+    "title": "Non local dofs (inside FE)",
+    "url": "https://github.com/dealii/dealii/pull/10766",
+    "mergedAt": null,
+    "closedAt": "2026-01-10T23:08:33Z",
+    "createdAt": "2020-07-30T08:21:51Z",
+    "updatedAt": "2026-01-10T23:08:33Z",
+    "author": {
+      "login": "luca-heltai"
+    },
+    "additions": 948,
+    "deletions": 40,
+    "changedFiles": 22,
+    "baseRefName": "master",
+    "headRefOid": "115930e1ea293f104ea6a17821594bcd4f3016b3",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Discussion"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 7762,
+    "title": "distribute non-local dofs",
+    "url": "https://github.com/dealii/dealii/pull/7762",
+    "mergedAt": null,
+    "closedAt": "2026-01-10T23:05:54Z",
+    "createdAt": "2019-02-27T21:58:29Z",
+    "updatedAt": "2026-01-10T23:05:54Z",
+    "author": {
+      "login": "luca-heltai"
+    },
+    "additions": 1008,
+    "deletions": 35,
+    "changedFiles": 23,
+    "baseRefName": "master",
+    "headRefOid": "5f32185bac733ad59cce45d57d87dec860781018",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Finite Element"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 9
+    },
+    "reviewThreads": {
+      "totalCount": 11
+    }
+  },
+  {
+    "number": 19275,
+    "title": "mistype on step-85",
+    "url": "https://github.com/dealii/dealii/pull/19275",
+    "mergedAt": null,
+    "closedAt": "2026-02-09T13:59:18Z",
+    "createdAt": "2026-02-06T12:26:50Z",
+    "updatedAt": "2026-02-09T13:59:18Z",
+    "author": {
+      "login": "rs8055"
+    },
+    "additions": 1,
+    "deletions": 1,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "b97a55f3cbe16e9684e37b92970ce0e1f50954f5",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Documentation"
+        },
+        {
+          "name": "Tutorials"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19052,
+    "title": "Map only locally owned dofs to support points. ",
+    "url": "https://github.com/dealii/dealii/pull/19052",
+    "mergedAt": null,
+    "closedAt": "2026-02-19T18:19:51Z",
+    "createdAt": "2025-12-04T21:33:08Z",
+    "updatedAt": "2026-02-19T18:19:51Z",
+    "author": {
+      "login": "fdrmrc"
+    },
+    "additions": 97,
+    "deletions": 463,
+    "changedFiles": 15,
+    "baseRefName": "master",
+    "headRefOid": "695936fc1fa249074296ccf69376a73ec0083a86",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "DoFs"
+        },
+        {
+          "name": "ready to test"
+        },
+        {
+          "name": "dealii-x"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 10
+    },
+    "reviews": {
+      "totalCount": 5
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 17576,
+    "title": "Quadratic and cubic pyramid elements",
+    "url": "https://github.com/dealii/dealii/pull/17576",
+    "mergedAt": null,
+    "closedAt": "2026-02-19T17:17:42Z",
+    "createdAt": "2024-08-20T14:28:23Z",
+    "updatedAt": "2026-02-19T18:38:25Z",
+    "author": {
+      "login": "dominiktassilostill"
+    },
+    "additions": 916,
+    "deletions": 189,
+    "changedFiles": 16,
+    "baseRefName": "master",
+    "headRefOid": "57785a72b72f698636338142c8df15ec055eb5fa",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 6
+    },
+    "reviewThreads": {
+      "totalCount": 24
+    }
+  },
+  {
+    "number": 19446,
+    "title": "Enable more Tpetra tests",
+    "url": "https://github.com/dealii/dealii/pull/19446",
+    "mergedAt": null,
+    "closedAt": "2026-03-26T21:58:14Z",
+    "createdAt": "2026-03-25T19:32:40Z",
+    "updatedAt": "2026-03-26T21:58:15Z",
+    "author": {
+      "login": "masterleinad"
+    },
+    "additions": 545,
+    "deletions": 0,
+    "changedFiles": 10,
+    "baseRefName": "master",
+    "headRefOid": "4df8c9b0264f9df32082d5292c6f1765feb21801",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19413,
+    "title": "Make sure MappingQ does not store invalid cell in InternalData",
+    "url": "https://github.com/dealii/dealii/pull/19413",
+    "mergedAt": null,
+    "closedAt": "2026-03-20T20:59:14Z",
+    "createdAt": "2026-03-18T14:44:43Z",
+    "updatedAt": "2026-06-20T10:10:16Z",
+    "author": {
+      "login": "kronbichler"
+    },
+    "additions": 65,
+    "deletions": 11,
+    "changedFiles": 3,
+    "baseRefName": "master",
+    "headRefOid": "59333e551ae4c93552aedb1efa1d1f710bf66904",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Mapping"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "reviews": {
+      "totalCount": 2
+    },
+    "reviewThreads": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 19407,
+    "title": "Serial solution transfer: Avoid quadratic complexity loop",
+    "url": "https://github.com/dealii/dealii/pull/19407",
+    "mergedAt": null,
+    "closedAt": "2026-03-17T16:38:28Z",
+    "createdAt": "2026-03-17T13:35:03Z",
+    "updatedAt": "2026-06-20T10:10:17Z",
+    "author": {
+      "login": "kronbichler"
+    },
+    "additions": 15,
+    "deletions": 46,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "44b6786c57b8766f22447f977286a192d4b40ee6",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Triangulation"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19171,
+    "title": "Rewrite logic used to deal with orientation of faces in `ReferenceCell`",
+    "url": "https://github.com/dealii/dealii/pull/19171",
+    "mergedAt": null,
+    "closedAt": "2026-03-05T20:27:10Z",
+    "createdAt": "2026-01-12T16:34:18Z",
+    "updatedAt": "2026-03-05T20:29:10Z",
+    "author": {
+      "login": "AndSte01"
+    },
+    "additions": 115,
+    "deletions": 71,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "a2868ea6410445f5e7c3a648b528252062650a79",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19146,
+    "title": "TpetraWrappers::SparsityPattern: Fall back to DynamicSparsityPattern if n_entries_per_row is zero",
+    "url": "https://github.com/dealii/dealii/pull/19146",
+    "mergedAt": null,
+    "closedAt": "2026-03-19T03:06:04Z",
+    "createdAt": "2025-12-29T22:41:37Z",
+    "updatedAt": "2026-03-19T03:06:04Z",
+    "author": {
+      "login": "masterleinad"
+    },
+    "additions": 63,
+    "deletions": 9,
+    "changedFiles": 2,
+    "baseRefName": "master",
+    "headRefOid": "eec5166f8a8add425e5b63335257af529b560572",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 8
+    },
+    "reviews": {
+      "totalCount": 6
+    },
+    "reviewThreads": {
+      "totalCount": 8
+    }
+  },
+  {
+    "number": 18791,
+    "title": "Alias Tpetra classes into the TrilinosWrappers namespace",
+    "url": "https://github.com/dealii/dealii/pull/18791",
+    "mergedAt": null,
+    "closedAt": "2026-03-26T22:01:21Z",
+    "createdAt": "2025-08-07T20:35:30Z",
+    "updatedAt": "2026-03-26T22:01:21Z",
+    "author": {
+      "login": "masterleinad"
+    },
+    "additions": 1121,
+    "deletions": 499,
+    "changedFiles": 53,
+    "baseRefName": "master",
+    "headRefOid": "ae3f02617a2b48ff918de3c659a30e155602404a",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "reviews": {
+      "totalCount": 4
+    },
+    "reviewThreads": {
+      "totalCount": 4
+    }
+  },
+  {
+    "number": 14884,
+    "title": "Allow external initialization of MPI and p4est",
+    "url": "https://github.com/dealii/dealii/pull/14884",
+    "mergedAt": null,
+    "closedAt": "2026-04-16T01:20:40Z",
+    "createdAt": "2023-03-14T11:28:31Z",
+    "updatedAt": "2026-04-16T06:28:55Z",
+    "author": {
+      "login": "sloede"
+    },
+    "additions": 56,
+    "deletions": 19,
+    "changedFiles": 2,
+    "baseRefName": "master",
+    "headRefOid": "f11cf66c523b2a397d8fa7b2300eb7ae0d923358",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Parallel distributed"
+        },
+        {
+          "name": "External libraries"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 13
+    },
+    "reviews": {
+      "totalCount": 3
+    },
+    "reviewThreads": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 14353,
+    "title": "Add tolerance to avoid empty CGAL intersections due to roundoff",
+    "url": "https://github.com/dealii/dealii/pull/14353",
+    "mergedAt": null,
+    "closedAt": "2026-04-16T01:19:18Z",
+    "createdAt": "2022-10-17T13:56:01Z",
+    "updatedAt": "2026-04-16T01:19:18Z",
+    "author": {
+      "login": "jh66637"
+    },
+    "additions": 295,
+    "deletions": 30,
+    "changedFiles": 10,
+    "baseRefName": "master",
+    "headRefOid": "a8b671ec711939befbd85276aa5ca4daebbc8e8b",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 11
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 13689,
+    "title": "Test that exposes bug in Triangulation::create_triangulation",
+    "url": "https://github.com/dealii/dealii/pull/13689",
+    "mergedAt": null,
+    "closedAt": "2026-04-16T01:15:23Z",
+    "createdAt": "2022-05-07T19:44:55Z",
+    "updatedAt": "2026-04-16T01:15:23Z",
+    "author": {
+      "login": "luca-heltai"
+    },
+    "additions": 2555,
+    "deletions": 21,
+    "changedFiles": 22,
+    "baseRefName": "master",
+    "headRefOid": "7c4368fd7f5e3b089c83ff653cbc69b73ce96a57",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Bug"
+        },
+        {
+          "name": "Triangulation"
+        },
+        {
+          "name": "Co-dimension one"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "reviews": {
+      "totalCount": 2
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19730,
+    "title": "Add a missing header file.",
+    "url": "https://github.com/dealii/dealii/pull/19730",
+    "mergedAt": null,
+    "closedAt": "2026-05-22T18:45:56Z",
+    "createdAt": "2026-05-22T02:25:10Z",
+    "updatedAt": "2026-05-22T20:38:50Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 3,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "6c2a4e8fe70b2788711651b1ea000b0592ce434a",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19703,
+    "title": "SymEngine module: guard some includes.",
+    "url": "https://github.com/dealii/dealii/pull/19703",
+    "mergedAt": null,
+    "closedAt": "2026-05-18T10:26:49Z",
+    "createdAt": "2026-05-16T17:17:15Z",
+    "updatedAt": "2026-05-18T10:26:49Z",
+    "author": {
+      "login": "drwells"
+    },
+    "additions": 21,
+    "deletions": 19,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "02844a34c41de266a416b1ebae89bd317a18b059",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19693,
+    "title": "Fix real to unit cell affine approximation",
+    "url": "https://github.com/dealii/dealii/pull/19693",
+    "mergedAt": null,
+    "closedAt": "2026-05-25T14:35:31Z",
+    "createdAt": "2026-05-14T20:12:59Z",
+    "updatedAt": "2026-06-03T14:49:23Z",
+    "author": {
+      "login": "HarshaMatta"
+    },
+    "additions": 0,
+    "deletions": 0,
+    "changedFiles": 0,
+    "baseRefName": "master",
+    "headRefOid": "398d3c24d241cdb2ffc4ebd7483c73b4787418b8",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19675,
+    "title": "Extend affine_cell_approximation to simplex and mixed cells",
+    "url": "https://github.com/dealii/dealii/pull/19675",
+    "mergedAt": null,
+    "closedAt": "2026-05-14T18:43:26Z",
+    "createdAt": "2026-05-11T22:40:09Z",
+    "updatedAt": "2026-05-14T18:43:26Z",
+    "author": {
+      "login": "HarshaMatta"
+    },
+    "additions": 267,
+    "deletions": 29,
+    "changedFiles": 6,
+    "baseRefName": "master",
+    "headRefOid": "d5d539a55ba7d3bd2bfb0ad140bbe1b7b1be61ee",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19664,
+    "title": "See if we can do 'import std'.",
+    "url": "https://github.com/dealii/dealii/pull/19664",
+    "mergedAt": null,
+    "closedAt": "2026-05-07T17:26:07Z",
+    "createdAt": "2026-05-07T16:54:19Z",
+    "updatedAt": "2026-05-07T17:26:07Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 78,
+    "deletions": 1,
+    "changedFiles": 4,
+    "baseRefName": "master",
+    "headRefOid": "83e3acddff26b2f20a3b71d8b8a4619c6fb92933",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "reviews": {
+      "totalCount": 5
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19643,
+    "title": "Use clang-21 for the module builds.",
+    "url": "https://github.com/dealii/dealii/pull/19643",
+    "mergedAt": null,
+    "closedAt": "2026-05-06T23:40:06Z",
+    "createdAt": "2026-05-05T16:21:14Z",
+    "updatedAt": "2026-05-06T23:40:06Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 9,
+    "deletions": 9,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "feef87c7965db39bde861c17c9b82ff0c07be7f6",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 10
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19627,
+    "title": "CMake: also install bundled muparser headers",
+    "url": "https://github.com/dealii/dealii/pull/19627",
+    "mergedAt": null,
+    "closedAt": "2026-05-06T15:35:23Z",
+    "createdAt": "2026-05-01T21:59:02Z",
+    "updatedAt": "2026-10-13T02:51:43Z",
+    "author": {
+      "login": "tamiko"
+    },
+    "additions": 6,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "595d7d9f98b29d85bcfa42e1ee2dc91c72ce22d6",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "reviews": {
+      "totalCount": 3
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19609,
+    "title": "Update lukka/get-cmake requires updating Kokkos.",
+    "url": "https://github.com/dealii/dealii/pull/19609",
+    "mergedAt": null,
+    "closedAt": "2026-05-14T12:37:35Z",
+    "createdAt": "2026-04-30T13:52:36Z",
+    "updatedAt": "2026-05-14T12:37:40Z",
+    "author": {
+      "login": "marcfehling"
+    },
+    "additions": 3,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "8aec2a5b1c322b04579e96644800c26934a7a3a9",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Discussion"
+        },
+        {
+          "name": "but definitely not our fault :rage:"
+        },
+        {
+          "name": "github_actions"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19548,
+    "title": "Remove most uses of `is_valid_dim_spacedim`.",
+    "url": "https://github.com/dealii/dealii/pull/19548",
+    "mergedAt": null,
+    "closedAt": "2026-05-06T19:32:15Z",
+    "createdAt": "2026-04-18T21:50:08Z",
+    "updatedAt": "2026-05-06T19:32:15Z",
+    "author": {
+      "login": "drwells"
+    },
+    "additions": 688,
+    "deletions": 900,
+    "changedFiles": 48,
+    "baseRefName": "master",
+    "headRefOid": "b18cbb1d8f072ab8a124733891edc97dbcdd3402",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        },
+        {
+          "name": "C++20"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19524,
+    "title": "Add dealii_configuration.h.",
+    "url": "https://github.com/dealii/dealii/pull/19524",
+    "mergedAt": null,
+    "closedAt": "2026-05-06T19:59:49Z",
+    "createdAt": "2026-04-15T01:25:56Z",
+    "updatedAt": "2026-05-06T19:59:50Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 1824,
+    "deletions": 0,
+    "changedFiles": 2,
+    "baseRefName": "master",
+    "headRefOid": "2b5a337570602384c40afffbd7ff0b071f684ddf",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19508,
+    "title": "Allow ranks to not visit sections for timer output",
+    "url": "https://github.com/dealii/dealii/pull/19508",
+    "mergedAt": null,
+    "closedAt": "2026-05-15T08:15:17Z",
+    "createdAt": "2026-04-10T14:52:16Z",
+    "updatedAt": "2026-05-15T08:15:18Z",
+    "author": {
+      "login": "tnschmid"
+    },
+    "additions": 163,
+    "deletions": 4,
+    "changedFiles": 4,
+    "baseRefName": "master",
+    "headRefOid": "979ac3ae5eb4297fb39b818744237ecebf7795d7",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "reviews": {
+      "totalCount": 2
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19883,
+    "title": "Add an assertion.",
+    "url": "https://github.com/dealii/dealii/pull/19883",
+    "mergedAt": null,
+    "closedAt": "2026-06-17T14:44:49Z",
+    "createdAt": "2026-06-16T03:42:05Z",
+    "updatedAt": "2026-06-17T14:45:10Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 5,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "8dacf698733d50a6952fdfde04d5579e57edc289",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19868,
+    "title": "Try setting CMAKE_MSVC_DEBUG_INFORMATION_FORMAT=ProgramDatabase to minimize library size with MSVC",
+    "url": "https://github.com/dealii/dealii/pull/19868",
+    "mergedAt": null,
+    "closedAt": "2026-06-12T15:37:26Z",
+    "createdAt": "2026-06-12T13:50:47Z",
+    "updatedAt": "2026-06-12T15:37:26Z",
+    "author": {
+      "login": "masterleinad"
+    },
+    "additions": 7,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "131ff46ca0d4464d7f5e8f3d157ebf0fc815c4d3",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Reviewed and ready to merge"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19851,
+    "title": "Simplify MeshWorkers::Assemblers::CellsAndFaces.",
+    "url": "https://github.com/dealii/dealii/pull/19851",
+    "mergedAt": null,
+    "closedAt": "2026-06-12T03:21:29Z",
+    "createdAt": "2026-06-11T01:12:51Z",
+    "updatedAt": "2026-06-12T03:21:30Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 23,
+    "deletions": 32,
+    "changedFiles": 3,
+    "baseRefName": "master",
+    "headRefOid": "c69f26b7f551302ea8d23bded4e30f2434ca9cb3",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 4
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 19808,
+    "title": "Prepare some of our examples for use with Tpetra",
+    "url": "https://github.com/dealii/dealii/pull/19808",
+    "mergedAt": null,
+    "closedAt": "2026-06-12T08:31:28Z",
+    "createdAt": "2026-06-04T16:33:16Z",
+    "updatedAt": "2026-06-12T08:31:28Z",
+    "author": {
+      "login": "gassmoeller"
+    },
+    "additions": 61,
+    "deletions": 18,
+    "changedFiles": 5,
+    "baseRefName": "master",
+    "headRefOid": "2f168f8e19dc9348ee591611ecd4dd6664d8075b",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "reviews": {
+      "totalCount": 3
+    },
+    "reviewThreads": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 18662,
+    "title": "PSCToolkit interface",
+    "url": "https://github.com/dealii/dealii/pull/18662",
+    "mergedAt": null,
+    "closedAt": "2026-06-06T10:16:02Z",
+    "createdAt": "2025-07-10T09:25:06Z",
+    "updatedAt": "2026-06-06T10:16:02Z",
+    "author": {
+      "login": "Cirdans-Home"
+    },
+    "additions": 1847,
+    "deletions": 2,
+    "changedFiles": 17,
+    "baseRefName": "master",
+    "headRefOid": "14c43b2c2e048922cb9117f1a4a0f30754af24f8",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "dealii-x"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 12
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 16328,
+    "title": "Vectorize Function",
+    "url": "https://github.com/dealii/dealii/pull/16328",
+    "mergedAt": null,
+    "closedAt": "2026-06-09T08:41:42Z",
+    "createdAt": "2023-12-07T16:06:40Z",
+    "updatedAt": "2026-06-09T08:41:42Z",
+    "author": {
+      "login": "bergbauer"
+    },
+    "additions": 755,
+    "deletions": 557,
+    "changedFiles": 18,
+    "baseRefName": "master",
+    "headRefOid": "53b8a6636c490d0ccb6d6ff8072873027cd6413a",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 16141,
+    "title": "[WIP] enforce 1:1 ratio across periodic boundaries",
+    "url": "https://github.com/dealii/dealii/pull/16141",
+    "mergedAt": null,
+    "closedAt": "2026-06-05T01:08:42Z",
+    "createdAt": "2023-10-15T00:44:33Z",
+    "updatedAt": "2026-06-05T01:08:42Z",
+    "author": {
+      "login": "quangx"
+    },
+    "additions": 0,
+    "deletions": 0,
+    "changedFiles": 0,
+    "baseRefName": "master",
+    "headRefOid": "236bbf9abc4e9f780be6281c2b5eeb0c166f8c18",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 8
+    }
+  },
+  {
+    "number": 15204,
+    "title": "Adds create_with_same_size function",
+    "url": "https://github.com/dealii/dealii/pull/15204",
+    "mergedAt": null,
+    "closedAt": "2026-06-05T22:42:07Z",
+    "createdAt": "2023-05-12T11:23:25Z",
+    "updatedAt": "2026-06-05T22:42:07Z",
+    "author": {
+      "login": "MarcelKoch"
+    },
+    "additions": 348,
+    "deletions": 183,
+    "changedFiles": 32,
+    "baseRefName": "master",
+    "headRefOid": "b32e41eea25e2c7873482899bc3947444c56302a",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Linear Algebra"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 14391,
+    "title": "Correctly handle unpacking empty objects",
+    "url": "https://github.com/dealii/dealii/pull/14391",
+    "mergedAt": null,
+    "closedAt": "2026-06-06T06:46:31Z",
+    "createdAt": "2022-11-03T14:47:45Z",
+    "updatedAt": "2026-06-06T06:46:31Z",
+    "author": {
+      "login": "gassmoeller"
+    },
+    "additions": 48,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "f00a1f6d7e9d5fafb770ca3ab1da429f029a3955",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Parallel distributed"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 10
+    },
+    "reviews": {
+      "totalCount": 6
+    },
+    "reviewThreads": {
+      "totalCount": 8
+    }
+  },
+  {
+    "number": 13635,
+    "title": "Use p:d:T::find_point_owner_rank() in GridTools",
+    "url": "https://github.com/dealii/dealii/pull/13635",
+    "mergedAt": null,
+    "closedAt": "2026-06-08T11:59:09Z",
+    "createdAt": "2022-04-23T12:35:03Z",
+    "updatedAt": "2026-06-08T11:59:09Z",
+    "author": {
+      "login": "peterrum"
+    },
+    "additions": 127,
+    "deletions": 5,
+    "changedFiles": 3,
+    "baseRefName": "master",
+    "headRefOid": "95e753b168acb59860415166d1f85f12524ccc2f",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Triangulation"
+        },
+        {
+          "name": "Parallel distributed"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "reviews": {
+      "totalCount": 7
+    },
+    "reviewThreads": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 9994,
+    "title": "Integrate std::simd",
+    "url": "https://github.com/dealii/dealii/pull/9994",
+    "mergedAt": null,
+    "closedAt": "2026-06-07T13:31:06Z",
+    "createdAt": "2020-04-30T20:28:18Z",
+    "updatedAt": "2026-06-07T13:31:07Z",
+    "author": {
+      "login": "peterrum"
+    },
+    "additions": 817,
+    "deletions": 104,
+    "changedFiles": 13,
+    "baseRefName": "master",
+    "headRefOid": "9eadbda88e9a7da5a68bfedba2c86495cedef15c",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Enhancement"
+        },
+        {
+          "name": "SIMD"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "reviews": {
+      "totalCount": 1
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 8834,
+    "title": "Add coarsening/refinement capabilities to p:f:t",
+    "url": "https://github.com/dealii/dealii/pull/8834",
+    "mergedAt": null,
+    "closedAt": "2026-06-07T13:26:54Z",
+    "createdAt": "2019-09-22T06:25:27Z",
+    "updatedAt": "2026-06-07T13:26:54Z",
+    "author": {
+      "login": "peterrum"
+    },
+    "additions": 680,
+    "deletions": 4,
+    "changedFiles": 11,
+    "baseRefName": "master",
+    "headRefOid": "dfeeb64e05ff93efcea399032f5283e8121fb580",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Enhancement"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 6
+    },
+    "reviews": {
+      "totalCount": 3
+    },
+    "reviewThreads": {
+      "totalCount": 4
+    }
+  },
+  {
+    "number": 20063,
+    "title": "join in on the effort of fixing the clang bug. ",
+    "url": "https://github.com/dealii/dealii/pull/20063",
+    "mergedAt": null,
+    "closedAt": "2026-07-21T15:24:28Z",
+    "createdAt": "2026-07-21T14:19:30Z",
+    "updatedAt": "2026-07-27T09:46:13Z",
+    "author": {
+      "login": "SanojKnalp"
+    },
+    "additions": 63,
+    "deletions": 52,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "35fe86fe3f33865b1b928327a7ff0f5a615d5b52",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20062,
+    "title": "Play with the ordering of some statements.",
+    "url": "https://github.com/dealii/dealii/pull/20062",
+    "mergedAt": null,
+    "closedAt": "2026-07-21T17:55:55Z",
+    "createdAt": "2026-07-21T12:15:04Z",
+    "updatedAt": "2026-07-21T21:41:43Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 19,
+    "deletions": 13,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "cb9177bf7058aa9493db976225bf088dde5099bc",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20053,
+    "title": "Fix FEValuesViews::Vector for non-primitive elements on codim-1 meshes",
+    "url": "https://github.com/dealii/dealii/pull/20053",
+    "mergedAt": null,
+    "closedAt": "2026-07-15T10:41:04Z",
+    "createdAt": "2026-07-15T10:36:47Z",
+    "updatedAt": "2026-07-17T10:52:45Z",
+    "author": {
+      "login": "jakobtkn"
+    },
+    "additions": 13,
+    "deletions": 6,
+    "changedFiles": 2,
+    "baseRefName": "master",
+    "headRefOid": "fb40aaa6072e90abac726abc2d08ca9444368243",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20051,
+    "title": "Attempt to fix error with modules",
+    "url": "https://github.com/dealii/dealii/pull/20051",
+    "mergedAt": null,
+    "closedAt": "2026-07-14T15:02:32Z",
+    "createdAt": "2026-07-14T13:12:04Z",
+    "updatedAt": "2026-07-14T15:02:33Z",
+    "author": {
+      "login": "kronbichler"
+    },
+    "additions": 3,
+    "deletions": 5,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "152e355f96893e3e6aa03fb578c9c59bfb88fefa",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Do not merge :skull_and_crossbones:"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20024,
+    "title": "Try using g++ 16 as the base library for modules.",
+    "url": "https://github.com/dealii/dealii/pull/20024",
+    "mergedAt": null,
+    "closedAt": "2026-07-10T02:14:21Z",
+    "createdAt": "2026-07-09T14:52:27Z",
+    "updatedAt": "2026-07-10T02:14:21Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 2,
+    "deletions": 16,
+    "changedFiles": 2,
+    "baseRefName": "master",
+    "headRefOid": "cab635aa06e44a3da129926d1e2ef29e58084bde",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20020,
+    "title": "Export more operators.",
+    "url": "https://github.com/dealii/dealii/pull/20020",
+    "mergedAt": null,
+    "closedAt": "2026-07-12T01:29:23Z",
+    "createdAt": "2026-07-09T01:13:22Z",
+    "updatedAt": "2026-07-12T01:29:23Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 5,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "8bb956816a90ca7b39516bc7b38613ba6466e948",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 3
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20019,
+    "title": "Revert \"Do not export some symbols from GCC's libstdc++ if using GCC.\"",
+    "url": "https://github.com/dealii/dealii/pull/20019",
+    "mergedAt": null,
+    "closedAt": "2026-07-09T01:11:54Z",
+    "createdAt": "2026-07-09T00:00:25Z",
+    "updatedAt": "2026-07-09T01:12:00Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 1,
+    "deletions": 7,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "548c1d7141611ccf969f7094e14d4dee32a59f32",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19984,
+    "title": "[BOUNTY] Add docs/CHANGELOG_TYPO_FIX_v2.md - CVG Hive",
+    "url": "https://github.com/dealii/dealii/pull/19984",
+    "mergedAt": null,
+    "closedAt": "2026-07-01T14:53:41Z",
+    "createdAt": "2026-07-01T14:50:17Z",
+    "updatedAt": "2026-07-01T15:50:52Z",
+    "author": {
+      "login": "cleargeo"
+    },
+    "additions": 19,
+    "deletions": 0,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "6d2ccffe9a0eb70843316d5510b7d9aa93728273",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 20129,
+    "title": "Optimize based on the dimension.",
+    "url": "https://github.com/dealii/dealii/pull/20129",
+    "mergedAt": null,
+    "closedAt": "2026-08-12T01:55:41Z",
+    "createdAt": "2026-08-11T02:12:50Z",
+    "updatedAt": "2026-08-12T01:55:46Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 3,
+    "deletions": 3,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "f2531bd629e3d293034149a178d8b2acdf705b63",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 0
+    },
+    "reviews": {
+      "totalCount": 2
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  },
+  {
+    "number": 20095,
+    "title": "distributed::shared:Triangulation: fix mpi-parallel data_attach",
+    "url": "https://github.com/dealii/dealii/pull/20095",
+    "mergedAt": null,
+    "closedAt": "2026-08-01T15:55:40Z",
+    "createdAt": "2026-07-31T23:05:13Z",
+    "updatedAt": "2026-10-13T02:51:42Z",
+    "author": {
+      "login": "tamiko"
+    },
+    "additions": 516,
+    "deletions": 16,
+    "changedFiles": 7,
+    "baseRefName": "master",
+    "headRefOid": "28d7f65eba07b3f4b9a69e272160ecb7128534c4",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Do not merge :skull_and_crossbones:"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19945,
+    "title": "MSVC: turn /Zc:inline on by default.",
+    "url": "https://github.com/dealii/dealii/pull/19945",
+    "mergedAt": null,
+    "closedAt": "2026-08-11T16:05:40Z",
+    "createdAt": "2026-06-25T21:39:17Z",
+    "updatedAt": "2026-08-12T12:12:02Z",
+    "author": {
+      "login": "drwells"
+    },
+    "additions": 38,
+    "deletions": 2,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "f28bfe56eca4d0dbccba56fb33a31b90e33a927b",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Windows"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 19600,
+    "title": "[WIP] ReferenceCell: make a lot more functions constexpr.",
+    "url": "https://github.com/dealii/dealii/pull/19600",
+    "mergedAt": null,
+    "closedAt": "2026-08-05T13:15:03Z",
+    "createdAt": "2026-04-29T14:13:47Z",
+    "updatedAt": "2026-08-05T13:15:03Z",
+    "author": {
+      "login": "drwells"
+    },
+    "additions": 66,
+    "deletions": 62,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "28a20d30bcc16532f4d180aa817612a2514b6ad0",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "Enhancement"
+        },
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 7
+    },
+    "reviews": {
+      "totalCount": 2
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 18499,
+    "title": "Adapt deal_ii_setup_target to allow linking against modules.",
+    "url": "https://github.com/dealii/dealii/pull/18499",
+    "mergedAt": null,
+    "closedAt": "2026-08-17T16:31:53Z",
+    "createdAt": "2025-05-25T22:03:26Z",
+    "updatedAt": "2026-08-17T16:31:58Z",
+    "author": {
+      "login": "bangerth"
+    },
+    "additions": 55,
+    "deletions": 6,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "c2237305b26a1bf764420df95539fab2986948b0",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ready to test"
+        }
+      ]
+    },
+    "comments": {
+      "totalCount": 5
+    },
+    "reviews": {
+      "totalCount": 3
+    },
+    "reviewThreads": {
+      "totalCount": 2
+    }
+  },
+  {
+    "number": 20121,
+    "title": "FEEvaluationBase: reduce loop duplication in read_write_operation_contiguous",
+    "url": "https://github.com/dealii/dealii/pull/20121",
+    "mergedAt": null,
+    "closedAt": "2026-09-03T09:57:02Z",
+    "createdAt": "2026-08-10T20:39:39Z",
+    "updatedAt": "2026-09-03T09:57:02Z",
+    "author": {
+      "login": "mohitt31"
+    },
+    "additions": 49,
+    "deletions": 46,
+    "changedFiles": 1,
+    "baseRefName": "master",
+    "headRefOid": "c015366ff5c3a1e5731f8c356aa8361eb7b2abd3",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 1
+    },
+    "reviews": {
+      "totalCount": 0
+    },
+    "reviewThreads": {
+      "totalCount": 0
+    }
+  },
+  {
+    "number": 15319,
+    "title": "Add utility function returning point indices which are not found",
+    "url": "https://github.com/dealii/dealii/pull/15319",
+    "mergedAt": null,
+    "closedAt": "2026-10-12T21:01:35Z",
+    "createdAt": "2023-06-06T18:43:06Z",
+    "updatedAt": "2026-10-12T21:01:36Z",
+    "author": {
+      "login": "jh66637"
+    },
+    "additions": 23,
+    "deletions": 0,
+    "changedFiles": 2,
+    "baseRefName": "master",
+    "headRefOid": "aeee000367bacd383f2d2e9a7a3512170bcafe8a",
+    "mergeCommit": null,
+    "labels": {
+      "nodes": []
+    },
+    "comments": {
+      "totalCount": 2
+    },
+    "reviews": {
+      "totalCount": 5
+    },
+    "reviewThreads": {
+      "totalCount": 1
+    }
+  }
+]
